@@ -1,1 +1,1 @@
-# object-detection-for-autonomous-veichles
+# object-detection-for-autonomous-vehicles
